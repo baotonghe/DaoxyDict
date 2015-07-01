@@ -1,2 +1,2 @@
 # DaoxyDict
-A dictionary program which is written by  Qt, and can run on windows, linux and mac os x
+A dictionary program which is written by  Qt, can run on windows, linux and mac os x
