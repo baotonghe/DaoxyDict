@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/DaoxyDictMainWindow.qss</file>
+        <file>qss/DaoxyDictToolBar.qss</file>
+    </qresource>
+</RCC>
